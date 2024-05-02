@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    x:Class="consumeapi.Views.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://schemas.microsoft.com/dotnet/2021/maui/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:consumeapi"
+    Title="consumeapi"
+    mc:Ignorable="d">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowDefinitions="*,40">
+                <StackLayout
+                    Padding="30"
+                    Spacing="25">
+
+                    
+
+                    <Label
+                        x:Name="cfact"
+                        FontSize="18"
+                        HorizontalOptions="Center"
+                        SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                        SemanticProperties.HeadingLevel="Level1"
+                        Style="{StaticResource MauiLabel}"
+                        Text="Welcome to .NET Multi-platform App UI" />
+
+                    
+
+                    <Button
+                        Clicked="GetFact_OnPressed"
+                        HorizontalOptions="Center"
+                        SemanticProperties.Hint="Counts the number of times you click"
+                        Style="{StaticResource PrimaryAction}"
+                        Text="Click me" />
+
+                    
+
+                </StackLayout>
+                <Grid
+                    Grid.Row="1"
+                    BackgroundColor="{AppThemeBinding Dark={StaticResource BackgroundDark},
+                                                      Light={StaticResource Primary}}">
+
+                    <Label
+                        x:Name="VersionLabel"
+                        HorizontalOptions="Center"
+                        TextColor="{StaticResource White}"
+                        VerticalOptions="Center" />
+
+                </Grid>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\consumeapi.csproj;x64

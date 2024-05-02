@@ -1,0 +1,13 @@
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\consumeapi.csproj.AssemblyReference.cache
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\consumeapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\consumeapi.AssemblyInfoInputs.cache
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\consumeapi.AssemblyInfo.cs
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\consumeapi.csproj.CoreCompileInputs.cache
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\bin\Debug\net8.0\consumeapi.deps.json
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\bin\Debug\net8.0\consumeapi.dll
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\bin\Debug\net8.0\consumeapi.pdb
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\XamlC.stamp
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\consumeapi.dll
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\refint\consumeapi.dll
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\consumeapi.pdb
+C:\Users\jakus\RiderProjects\consumeapi\consumeapi\obj\Debug\net8.0\ref\consumeapi.dll
